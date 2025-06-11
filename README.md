@@ -9,4 +9,6 @@ WordPress Pop-up widgets have gotten too complex (and expensive) for a lot of si
 2. Create a page or post with the conent you want in the pop-up.  You can include blocks or frames from other sites (this is useful if using a subscribe widget from systeme.io for example).
 3. Click on "Popup Widget" in the administration menu. Choose the options you like.
 
+![pop-up-widget-config](pop-up-widget-config.pnp)
 
+Thats it!  Enjoy!
